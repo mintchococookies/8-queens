@@ -7,4 +7,4 @@ Refer to https://en.wikipedia.org/wiki/Eight_queens_puzzle#:~:text=The%20eight%2
 ![Alt Text](https://github.com/mintchococookies/8-queens/blob/main/8-queens-output.PNG)
 
 ## Sample output for 15 queens on a 15x15 board:
-![Alt Text](https://github.com/mintchococookies/8-queens/blob/main/15-queens-output.png)
+![Alt Text](https://github.com/mintchococookies/8-queens/blob/main/15-queens-output2.png)
